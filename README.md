@@ -5,7 +5,7 @@
 
 > 🌱 Everything here is published under **MIT License** and you are free and encourage to reuse and remix everything you find here. You don't have to attribute us anywhere, we would love a shoutout though, if it was helpful.
 
-As part of our mission to share our design, software and signing knowledge with the world we publish all of our design and related ressources here.
+As part of our mission to share our design, software and signing knowledge with the world we publish all of our design and related ressources here. Join our design channel on discord to discuss design: https://documen.so/discord
 
 ## Our Design-System
 
