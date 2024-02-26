@@ -1,4 +1,4 @@
-![image](https://github.com/documenso/design/assets/1309312/1f771460-6a0a-420c-9bfe-9a6019672b5b)
+![Container](https://github.com/documenso/design/assets/1309312/44562c9e-6d18-4eae-b686-753bf291e9fe)
 
 
 # Documenso Public Design Repository
