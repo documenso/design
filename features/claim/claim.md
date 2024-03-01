@@ -1,5 +1,5 @@
 # Signup & Profile Username Claim Flow
-The claims flow is a nice signup flow that includes selection a username for your Documenso profile.
+The claim flow is a nice signup flow that includes selection a username for your Documenso profile.
 
 ## Design Files
 > Figma Community File
